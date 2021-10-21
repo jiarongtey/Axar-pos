@@ -1,0 +1,4 @@
+12/7/2021 - Initial the project, created authertication and register features.
+13/7/2021 - Added the table component.
+14/7/2021 - Created the product database, product api, and implment to the table. Moved the register button to dashboard.
+15/7/2021 - Added filter method for the table.
